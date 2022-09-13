@@ -6,13 +6,12 @@
  * Return: Always 0 (Success)
  */
 void print_alphabet(void)
-{ 
+{
 	int i;
 
-	for (97; i <= 122; i++)
+	for (i = 97; i <= 122; i++)
 	{
-		_putchar(i)
-	
+		_putchar(i);
 	}
-	_putchar('\n')
+	_putchar('\n');
 }
