@@ -2,8 +2,9 @@
 #include "main.h"
 
 /**
+ * _putchar - writes the character
  *
- *Return: On success 0.
+ *Return: Always 0 (Success).
  */
 int main()  
 { 
