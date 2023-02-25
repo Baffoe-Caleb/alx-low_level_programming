@@ -1,12 +1,12 @@
-# Makefiles
+# 0x1C. C - Makefiles
 
-Project done during **Full Stack Software Engineering studies** at **Holberton School**. It aims to learn what are makefiles, when, why and how to use them (with variables, explicit and implicit rules).
+Project done during **Full Stack Software Engineering studies** at **ALX Africa**. It aims to learn what are makefiles, when, why and how to use them (with variables, explicit and implicit rules).
 
 ## Technologies
-* Scripts written in Bash 4.3.11(1)
-* C files are compiled using `gcc 4.8.4`
-* Tested on Ubuntu 14.04 LTS
-* Version of `make`: GNU Make 3.81
+* Scripts written in Bash `5.0.17(1)`
+* C files are compiled using `gcc 9.3.0`
+* Tested on Ubuntu `20.04` LTS
+* Version of `make`: GNU Make `4.2.1`
 
 ## Files
 
